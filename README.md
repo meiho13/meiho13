@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @meiho13
-- 👀 I’m interested in Front-end development
+- 👋 Hi, I’m Van (Mei).
+- 👀 I’m interested in Business Analysis.
 - 🌱 I’m currently learning Digital Innovation & Entrepreneurship.
 
 
