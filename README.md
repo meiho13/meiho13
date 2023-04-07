@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Van (Mei).
-- 👀 I’m interested in Business Analysis.
-- 🌱 I’m currently learning Digital Innovation & Entrepreneurship.
+- 👀 I’m interested in Finance.
+- 🌱 I’m currently studying BSc Finance.
 
 
 <!---
