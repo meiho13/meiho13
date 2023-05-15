@@ -1,6 +1,5 @@
 - 👋 Hi, I’m Van (Mei).
-- 👀 I’m interested in Finance.
-- 🌱 I’m currently studying BSc Finance.
+- 👀 I’m interested in Finance and Technology.
 
 
 <!---
