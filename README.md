@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Van (Mei).
-- 👀 I’m interested in Finance and Technology.
+- 👀 I’m interested in Data, Technology and Finance.
 
 
 <!---
